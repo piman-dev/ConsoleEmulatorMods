@@ -1,2 +1,2 @@
-# ConsoleEmulatorMods
-Some small mods of console emulators
+# Console Emulator Modifications
+This is a repository for some slightly modded builds of console emulators.
